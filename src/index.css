@@ -41,6 +41,10 @@
 
 body {
   margin: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('../public/empty-concert-stage.jpg');
+  background-size: cover;
 }
 
 ul {
